@@ -6,7 +6,7 @@ Este es el repositorio del curso de LinkedIn Learning `Aprende REST APIs`. El cu
 
 Consulta el archivo Readme en la rama main para obtener instrucciones e información actualizadas.
 
-DESCRIPCIÓN DEL CURSO
+Este curso está diseñado para desarrolladores y profesionales de TI que buscan comprender y dominar las API REST. Cubrimos desde los fundamentos hasta conceptos avanzados, permitiéndote diseñar, implementar y gestionar API REST de manera eficiente y segura. Explora las peticiones y respuestas en REST, métodos HTTP, autenticación, autorización y tendencias emergentes como GraphQL y gRPC. Conviértete en un experto en la creación y gestión de API REST para impulsar tus proyectos de desarrollo de software.
 
 ## Instrucciones
 
